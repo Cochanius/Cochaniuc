@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 📫 How to reach me: ...
+- 📫 How to reach me: @bj.iwnl_
+- This "web site" is a try for the school, acually in this project we're working with 3 mates
+- Horbaniuc
+- Epis
+- and me (Cocha)
 
 <!--
 **Cochanius/Cochanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
